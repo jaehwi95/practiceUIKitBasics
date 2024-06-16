@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:phoneBook/phoneBook.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:testTechStacks/testTechStacks.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:StudyNotificationCenter/StudyNotificationCenter.xcodeproj">
    </FileRef>
 </Workspace>
